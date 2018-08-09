@@ -6,7 +6,7 @@ body{
 	color: white;
 }
 .ban{
-	background: url('../images/banner.jpg');
+	background:#180F3A url('../images/banner.jpg');
 	background-size: cover;
 	min-height: 95vh;
 }
